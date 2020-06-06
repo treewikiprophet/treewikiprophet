@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: The Prophet of Tree Wiki, jhg
 description: "A minimal blog template, build with Jekyll."
-url: "https://treewikiprophet.github.io"
+url: "https://treewikiprophet.github.io/treewikiprophet/"
 author:
   name: "hangeun jang"
   email: "incognitor@naver.com"
-  url: "https://treewikiprophet.github.io"
+  url: "https://treewikiprophet.github.io/treewikiprophet/"
 
 # Build settings
 baseurl: "/" #emerald # Change this to your relative path (ex: /blog/), or leave just a /
