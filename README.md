@@ -1,5 +1,11 @@
 ## ?  
-My ReadMe?  
+0. git repo 생성( blog url로 쓰게 될 것이므로 신중하게)  
+1. git clone { jekyII template 중에 하나 선택할 것 }  
+2. JekyII template의 모든 내용을 본인의 blog repo 내부로 옮길 것  
+3. _config.yml 수정  url이나 author, site 정보 등을 바꿀 것
+4. _posts/YYYY_MM_DD_제목.md와 같이 내용작성 : 가끔씩 _posts 형식이 아닌 템플릿도 있으니 readme.md 읽어보고 맞춰서 진행  단 내용 작성 md는 아래와 같이 한다.
+
+
 Whole contents under the below line aren't mine  
 ---------------------------------------------------------
 ## About
