@@ -1,3 +1,4 @@
+## Guide for someone
 0. git repo 생성( blog url로 쓰게 될 것이므로 신중하게)  
 1. git clone { jekyII template 중에 하나 선택할 것 }  
 2. JekyII template의 모든 내용을 본인의 blog repo 내부로 옮길 것  
