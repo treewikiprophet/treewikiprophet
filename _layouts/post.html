@@ -4,6 +4,14 @@ layout: default
 <article id="post-page">
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<script src="https://utteranc.es/client.js"
+        repo="treewikiprophet/treewikiprophet"
+        issue-term="pathname"
+        label="testcomment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+        </script>
 	<div class="content">
 
 		{{ content }}
